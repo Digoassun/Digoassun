@@ -1,8 +1,9 @@
 ## Ola! Meu nome é Rodrigo Assunção!
 
 
-- 🐉 Cursando para WebDev FullStack na RESILIA Educação
+- 🐉 Formado em WebDev FullStack na RESILIA Educação
 - 😄 Pronouns: Ele/Dele
+- Trabalhando na empresa Switch APP
 
 <div align="center">
   <a href="https://github.com/Digoassun">

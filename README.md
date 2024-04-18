@@ -1,9 +1,8 @@
-## Ola! Meu nome é Rodrigo Assunção!
+## Ola! Meu nome é Rodrigo Assunção! Sou desenvolvedor Front End
 
 
 - 🐉 Formado em WebDev FullStack na RESILIA Educação
 - 😄 Pronouns: Ele/Dele
-- Trabalhando na empresa Switch APP
 
 <div align="center">
   <a href="https://github.com/Digoassun">
